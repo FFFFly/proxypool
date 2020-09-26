@@ -1,5 +1,5 @@
 # your domain
-domain: example.com
+domain: 1251520473@qq.com
 
 # cloudflare api
 cf_email: ""
@@ -10,4 +10,4 @@ source-files:
   # use local file
   - source.yaml
   # use web file
-  - https://example.com/source.yaml
+  - https://raw.githubusercontent.com/FFFFly/proxypool/master/config/source.yaml
